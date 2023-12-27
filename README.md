@@ -1,9 +1,9 @@
 # MS-50G+
 1. 内蔵エフェクトの一覧
-
-
+  
+  
 - DYNAMICS(8)
-
+  
 |No|Name|Model|Memo|
 |---|---|---|---|
 |1|COMPRESSOR |||
@@ -14,39 +14,48 @@
 |6|ZOOM NOISE REDUCTION|||
 |7|NOISE GATE|||
 |8|SLOW ATTACK|||
-
-- FILTER
-
+  
+  
+- FILTER(7)
+  
 |No|Name|Model|Memo|
 |---|---|---|---|
-|1||||
-|2||||
-|3||||
-|4||||
-|5||||
-|6||||
-|7||||
-|8||||
-|9||||
-|10||||
-
-- DRIVE
-
+|1|AUTO WAH |||
+|2|LOW-PASS FILTER|||
+|3|ENVELOPE GENERATOR FILTER|||
+|4|SEQUENCE FILTER|||
+|5|STEP FILTER|||
+|6|GUITAR GRAPHIC EQ7|||
+|7|PARAMETRIC EQ|||
+  
+  
+- DRIVE(19)
+  
 |No|Name|Model|Memo|
 |---|---|---|---|
-|1||||
-|2||||
-|3||||
-|4||||
-|5||||
-|6||||
-|7||||
-|8||||
-|9||||
-|10||||
+|1|EP DRIVE|||
+|2|RC DRIVE|||
+|3|TS DRIVE|||
+|4|GOLD DRIVE|||
+|5|SWEET DRIVE|||
+|6|ZEN O.DRIVE|||
+|7|DYNAMIC DRIVE|||
+|8|PLUS DISTORTION|||
+|9|DISTORTION ONE|||
+|10|SQUEAK DISTORTION|||
+|11|RED CRUNCH DRIVE|||
+|12|VIOLET DISTORTION|||
+|13|TB MK1.5 FUZZ|||
+|14|OCTAVE FUZZ|||
+|15|NEW YORK MUFF FUZZ|||
+|16|WAVE SHAPER DRIVE|||
+|17|RAZOR DRIVE|||
+|18|HG THROTTLE DRIVE|||
+|19|ACOUSTIC SIMULATOR|||
+  
 
 - PREAMP
-
+  
 |No|Name|Model|Memo|
 |---|---|---|---|
 |1||||
@@ -60,7 +69,7 @@
 |9||||
 |10||||
   
-
+  
 - MODULATION(22)
   
 |No|Name|Model|Memo|
