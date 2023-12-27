@@ -86,26 +86,26 @@
   
 |No|Name|Model|Memo|
 |---|---|---|---|
-|1|CLONE CHORUS|||
-|2|CHORUS ONE|||
-|3|TRI CHORUS|||
-|4|ANALOG CHORUS|||
-|5|STEREO CHORUS|||
-|6|DETUNE|||
-|7|ORANGE TREMOLO|||
-|8|PHASER|||
-|9|STONE PHASER|||
-|10|WARP PHASER|||
-|11|THE VIBE|||
-|12|VINTAGE FLANGER|||
-|13|KICK FLANGER|||
-|14|VIBRATO|||
-|15|SWELL VIBRATO|||
-|16|OCTAVER|||
-|17|POLYPHONIC OCTAVER|||
-|18|HARMONY PITCH SHIFTER|||
-|19|POLYPHONIC PITCH SHIFTER|||
-|20|GEMINOS DOUBLER|||
+|1|CLONE CHORUS||Electro-Harmonix SmallCloneをモデリングしたアナログコーラスサウンドです。|
+|2|CHORUS ONE||BOSS SUPER CHORUS CH-1のモデリングです。|
+|3|TRI CHORUS||tc electronic CORONA Tri-Chorusをモデリングしたコーラスです。|
+|4|ANALOG CHORUS||アナログコーラスのシミュレーションです。|
+|5|STEREO CHORUS||クリアな音質のステレオコーラスです。|
+|6|DETUNE||わずかにピッチシフトさせたエフェクト音と原音をミックスさせることで、変調感の少ないコーラス効果が得られるエフェクトタイプです。|
+|7|ORANGE TREMOLO||音量を周期的に上下させるエフェクトです。|
+|8|PHASER||音にシュワシュワした揺らぎを加えるエフェクトです。|
+|9|STONE PHASER||Electro-Harmonix SmallStoneをモデリングしたフェイザーサウンドです。|
+|10|WARP PHASER||一方向に効果がかかるフェイザーです。|
+|11|THE VIBE||独特のうねりが特徴的なヴァイブサウンドです。|
+|12|VINTAGE FLANGER||MXR M-117Rのようなアナログフランジャーのサウンドです。|
+|13|KICK FLANGER||フットスイッチの操作で制御するフランジャーです。|
+|14|VIBRATO||自動的にビブラートのかかるエフェクトです。|
+|15|SWELL VIBRATO||ピッキング後に音程を揺らすエフェクトです。|
+|16|OCTAVER||原音に1オクターブ下と2オクターブ下の音を加えるエフェクトです。|
+|17|POLYPHONIC OCTAVER||和音に対応したオクターバーです。|
+|18|HARMONY PITCH SHIFTER||設定されたキーやスケールに応じてピッチをシフトしたエフェクト音を出力する、インテリジェントなピッチシフターです。|
+|19|POLYPHONIC PITCH SHIFTER||和音に対応したピッチシフターです。|
+|20|GEMINOS DOUBLER||ダブルトラッキングをリアルタイムに得ることができるエフェクトです。|
 |21|RING MODULATOR||金属的なサウンドを作り出すエフェクトです。"FREQ" パラメーターの設定で音色がガラリと変わります。|
 |22|SLICER||音を連続的に刻んでリズミカルなサウンドを作り出すエフェクトです。|
   
