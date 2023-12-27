@@ -47,8 +47,8 @@
 |12|VIOLET DISTORTION||SUHR Riot Reloadedのモデリングです。|
 |13|TB MK1.5 FUZZ||伝統的なファズ・エフェクトです。|
 |14|OCTAVE FUZZ||アッパー・オクターブを加えたファズ・エフェクトです。|
-|15|NEW YORK MUFF FUZZ|||
-|16|WAVE SHAPER DRIVE|||
+|15|NEW YORK MUFF FUZZ||Electro-Harmonix Big Muff Piのモデリングです。原音と歪みの音量バランスを調節することができるパラメーターを追加しました。|
+|16|WAVE SHAPER DRIVE||新しいディストーションアルゴリズムにより波形を成形し、ユニークなサウンドが得られるディストーションエフェクトです。|
 |17|RAZOR DRIVE||コムフィルターを使って歪みをコントロールする新感覚のディストーションエフェクトです。|
 |18|HG THROTTLE DRIVE||Mesa Boogie THROTTLE BOX(GAIN SWITCH:HI / BOOST:ON)のモデリングサウンドです。|
 |19|ACOUSTIC SIMULATOR||エレクトリックギターの音色をアコースティックギター風に変えるエフェクトです。|
