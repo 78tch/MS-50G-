@@ -2,20 +2,18 @@
 1. 内蔵エフェクトの一覧
 
 
-- DYNAMICS
+- DYNAMICS(8)
 
 |No|Name|Model|Memo|
 |---|---|---|---|
-|1||||
-|2||||
-|3||||
-|4||||
-|5||||
-|6||||
-|7||||
-|8||||
-|9||||
-|10||||
+|1|COMPRESSOR |||
+|2|RACK COMPRESSOR|||
+|3|GRAY COMPRESSOR|||
+|4|BLACK OPTICAL COMPRESSOR|||
+|5|1176 LIMITER|||
+|6|ZOOM NOISE REDUCTION|||
+|7|NOISE GATE|||
+|8|SLOW ATTACK|||
 
 - FILTER
 
@@ -61,9 +59,10 @@
 |8||||
 |9||||
 |10||||
+  
 
-- MODULATION
-
+- MODULATION(22)
+  
 |No|Name|Model|Memo|
 |---|---|---|---|
 |1|CLONE CHORUS|||
@@ -88,8 +87,9 @@
 |20|GEMINOS DOUBLER|||
 |21|RING MODULATOR|||
 |22|SLICER|||    
+  
 
-- DELAY
+- DELAY(13)
   
 |No|Name|Model|Memo|
 |---|---|---|---|
@@ -108,7 +108,7 @@
 |13|HOLD DELAY|||
   
   
-- REVERB
+- REVERB(7)
   
 |No|Name|Model|Memo|
 |---|---|---|---|
@@ -121,7 +121,7 @@
 |7|EARLY REFLECTION REVERB|||
   
   
-- SFX
+- SFX(5)
   
 |No|Name|Model|Memo|
 |---|---|---|---|
