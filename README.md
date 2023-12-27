@@ -6,52 +6,52 @@
   
 |No|Name|Model|Memo|
 |---|---|---|---|
-|1|COMPRESSOR |||
-|2|RACK COMPRESSOR|||
-|3|GRAY COMPRESSOR|||
-|4|BLACK OPTICAL COMPRESSOR|||
-|5|1176 LIMITER|||
-|6|ZOOM NOISE REDUCTION|||
-|7|NOISE GATE|||
-|8|SLOW ATTACK|||
+|1|COMPRESSOR ||MXR Dyna Comp風のコンプレッサーです。|
+|2|RACK COMPRESSOR||細かい調節の可能なコンプレッサーです。|
+|3|GRAY COMPRESSOR||ROSS Compressorのモデリングです。音質を調節することができるパラメーターを追加しました。|
+|4|BLACK OPTICAL COMPRESSOR||Demeter COMP-1 Compulatorのモデリングです。音質を調節することができるパラメーターを追加しました。|
+|5|1176 LIMITER||UREI 1176LNのモデリングです。|
+|6|ZOOM NOISE REDUCTION||音色を損なわずに無演奏時のノイズを抑えるノイズリダクションです。|
+|7|NOISE GATE||無演奏時に信号をカットするノイズゲートです。|
+|8|SLOW ATTACK||バイオリン奏法のように、1音1音の立ち上がりをゆるやかにするエフェクトです。|
   
   
 - FILTER(7)
   
 |No|Name|Model|Memo|
 |---|---|---|---|
-|1|AUTO WAH |||
-|2|LOW-PASS FILTER|||
-|3|ENVELOPE GENERATOR FILTER|||
-|4|SEQUENCE FILTER|||
-|5|STEP FILTER|||
-|6|GUITAR GRAPHIC EQ7|||
-|7|PARAMETRIC EQ|||
+|1|AUTO WAH ||ピッキングの強弱に応じてワウ効果がかかるエフェクトです。|
+|2|LOW-PASS FILTER||ピッキングの強弱に応じてローパスフィルターの周波数が動くエフェクトです。|
+|3|ENVELOPE GENERATOR FILTER||フットスイッチの操作で制御するフィルターエフェクトです。|
+|4|SEQUENCE FILTER||Z.Vex Seek Wah風のシーケンスフィルターです。|
+|5|STEP FILTER||音色が階段状に変化するエフェクトです。|
+|6|GUITAR GRAPHIC EQ7||モノラル仕様の7バンドのイコライザーです。|
+|7|PARAMETRIC EQ||モノラル仕様の1バンドのパラメトリック・イコライザーです。|
   
   
 - DRIVE(19)
   
 |No|Name|Model|Memo|
 |---|---|---|---|
-|1|EP DRIVE|||
-|2|RC DRIVE|||
-|3|TS DRIVE|||
-|4|GOLD DRIVE|||
-|5|SWEET DRIVE|||
-|6|ZEN O.DRIVE|||
-|7|DYNAMIC DRIVE|||
-|8|PLUS DISTORTION|||
-|9|DISTORTION ONE|||
-|10|SQUEAK DISTORTION|||
-|11|RED CRUNCH DRIVE|||
-|12|VIOLET DISTORTION|||
-|13|TB MK1.5 FUZZ|||
-|14|OCTAVE FUZZ|||
+|1|EP DRIVE||Maestro Echoplexのプリアンプをモデリングしたエフェクトです。|
+|2|RC DRIVE||クリーン・ブーストから軽いドライブサウンドまでカバーするブースターです。|
+|3|TS DRIVE||Ibanez TS808をモデリングしたエフェクトです。|
+|4|GOLD DRIVE||ブティックペダルを代表する金色のオーバードライブをモデリングしたエフェクトです。|
+|5|SWEET DRIVE||甘いサウンドのオーバードライブをモデリングしたエフェクトです。|
+|6|ZEN O.DRIVE||Hermida Audio Zendriveのモデリングです。|
+|7|DYNAMIC DRIVE||簡単に真空管アンプの暖かいドライブトーンが得られるエフェクトです。|
+|8|PLUS DISTORTION||MXR DISTORTION+のモデリングです。|
+|9|DISTORTION ONE||BOSS DISTORTION DS-1のモデリングです。|
+|10|SQUEAK DISTORTION||ProCo RATのモデリングです。原音のミックスレベルが調節できるパラメーターを追加しました。|
+|11|RED CRUNCH DRIVE||ブラウンサウンドの得られるエフェクトです。|
+|12|VIOLET DISTORTION||SUHR Riot Reloadedのモデリングです。|
+|13|TB MK1.5 FUZZ||伝統的なファズ・エフェクトです。|
+|14|OCTAVE FUZZ||アッパー・オクターブを加えたファズ・エフェクトです。|
 |15|NEW YORK MUFF FUZZ|||
 |16|WAVE SHAPER DRIVE|||
-|17|RAZOR DRIVE|||
-|18|HG THROTTLE DRIVE|||
-|19|ACOUSTIC SIMULATOR|||
+|17|RAZOR DRIVE||コムフィルターを使って歪みをコントロールする新感覚のディストーションエフェクトです。|
+|18|HG THROTTLE DRIVE||Mesa Boogie THROTTLE BOX(GAIN SWITCH:HI / BOOST:ON)のモデリングサウンドです。|
+|19|ACOUSTIC SIMULATOR||エレクトリックギターの音色をアコースティックギター風に変えるエフェクトです。|
   
 
 - PREAMP
