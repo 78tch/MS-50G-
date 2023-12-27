@@ -61,25 +61,25 @@
 |55|STEP FILTER|FILTER|音色が階段状に変化するエフェクトです。|
 |56|GUITAR GRAPHIC EQ7|FILTER|モノラル仕様の7バンドのイコライザーです。|
 |57|PARAMETRIC EQ|FILTER|モノラル仕様の1バンドのパラメトリック・イコライザーです。|
-|58|||1|
-|59|||1|
-|60|||1|
-|61|||1|
-|62|||1|
-|63|||1|
-|64|||1|
-|65|||1|
-|66|||1|
-|67|||1|
-|68|||1|
-|69|||1|
-|70|||1|
-|71|||1|
-|72|||1|
-|73|||1|
-|74|||1|
-|75|||1|
-|76|||1|
+|58|EP DRIVE|DRIVE|Maestro Echoplexのプリアンプをモデリングしたエフェクトです。|
+|59|RC DRIVE|DRIVE|クリーン・ブーストから軽いドライブサウンドまでカバーするブースターです。|
+|60|TS DRIVE|DRIVE|Ibanez TS808をモデリングしたエフェクトです。|
+|61|GOLD DRIVE|DRIVE|ブティックペダルを代表する金色のオーバードライブをモデリングしたエフェクトです。|
+|62|SWEET DRIVE|DRIVE|甘いサウンドのオーバードライブをモデリングしたエフェクトです。|
+|63|ZEN O.DRIVE|DRIVE|Hermida Audio Zendriveのモデリングです。|
+|64|DYNAMIC DRIVE|DRIVE|簡単に真空管アンプの暖かいドライブトーンが得られるエフェクトです。|
+|65|PLUS DISTORTION|DRIVE|MXR DISTORTION+のモデリングです。|
+|66|DISTORTION ONE|DRIVE|BOSS DISTORTION DS-1のモデリングです。|
+|67|SQUEAK DISTORTION|DRIVE|ProCo RATのモデリングです。原音のミックスレベルが調節できるパラメーターを追加しました。|
+|68|RED CRUNCH DRIVE|DRIVE|ブラウンサウンドの得られるエフェクトです。|
+|69|VIOLET DISTORTION|DRIVE|SUHR Riot Reloadedのモデリングです。|
+|70|TB MK1.5 FUZZ|DRIVE|伝統的なファズ・エフェクトです。|
+|71|OCTAVE FUZZ|DRIVE|アッパー・オクターブを加えたファズ・エフェクトです。|
+|72|NEW YORK MUFF FUZZ|DRIVE|Electro-Harmonix Big Muff Piのモデリングです。原音と歪みの音量バランスを調節することができるパラメーターを追加しました。|
+|73|WAVE SHAPER DRIVE|DRIVE|新しいディストーションアルゴリズムにより波形を成形し、ユニークなサウンドが得られるディストーションエフェクトです。|
+|74|RAZOR DRIVE|DRIVE|コムフィルターを使って歪みをコントロールする新感覚のディストーションエフェクトです。|
+|75|HG THROTTLE DRIVE|DRIVE|Mesa Boogie THROTTLE BOX(GAIN SWITCH:HI / BOOST:ON)のモデリングサウンドです。|
+|76|ACOUSTIC SIMULATOR|DRIVE|エレクトリックギターの音色をアコースティックギター風に変えるエフェクトです。|
 |77|||1|
 |78|||1|
 |79|||1|
