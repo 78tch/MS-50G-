@@ -58,28 +58,29 @@
   
 |No|Name|Model|Memo|
 |---|---|---|---|
-|1|MS45OS DRIVE|||
-|2|MS1959 DRIVE|||
-|3|MS800 DRIVE|||
-|4|FD B-MAN DRIVE|||
-|5|FD TWIN-R DRIVE|||
-|6|FD DELUXE-R DRIVE|||
-|7|FD MASTER DRIVE|||
-|8|UK 30A DRIVE|||
-|9|BG MARK1 DRIVE|||
-|10|BG MARK3 DRIVE|||
-|11|RECTI DUAL DRIVE|||
-|12|XTASYBLUE DRIVE|||
-|13|HW 100 DRIVE|||
-|14|ORG120 DRIVE|||
-|15|DZ DRIVE|||
-|16|MATCH30 DRIVE|||
-|17|KRAMPUS DRIVE|||
-|18|REDLOOM DRIVE|||
-|19|VELVET DRIVE|||
-|20|MUDDY DRIVE|||
-|21|7 HEAVEN DRIVE|||
-|22|POLLEX DRIVE|||
+|1|MS45OS DRIVE||Marshall JTM 45 Offset のモデリングサウンドです。|
+|2|MS1959 DRIVE||Marshall 1959 SUPER LEAD 100 のモデリングサウンドです|
+|3|MS800 DRIVE||Marshall JCM800 2203 のモデリングサウンドです。|
+|4|FD B-MAN DRIVE||Fender Bassman('59) のモデリングサウンドです。|
+|5|FD TWIN-R DRIVE||Fender Twin Reverb('65) のモデリングサウンドです。|
+|6|FD DELUXE-R DRIVE||Fender Deluxe Reverb('65) のモデリングサウンドです。|
+|7|FD MASTER DRIVE||Fender ToneMaster B channel のモデリングサウンドです。|
+|8|UK 30A DRIVE||クラスA ブリティッシュ・コンボアンプ初期モデルのモデリングサウンドです。|
+|9|BG MARK1 DRIVE||Mesa Boogie Mark I combo amp のモデリングサウンドです。|
+|10|BG MARK3 DRIVE||Mesa Boogie Mark III combo amp のモデリングサウンドです。|
+|11|RECTI DUAL DRIVE||Mesa Boogie Dual Rectifier Orange Channel のモデリングサウンドです。|
+|12|XTASYBLUE DRIVE||Bogner Ecstasy Blue channel のモデリングサウンドです。|
+|13|HW 100 DRIVE||Hiwatt Custom 100 のモデリングサウンドです。|
+|14|ORG120 DRIVE||Orange Graphic120 のモデリングサウンドです。|
+|15|DZ DRIVE||Diezel Herbert Channel2 のモデリングサウンドです。|
+|16|MATCH30 DRIVE||Matchless DC-30 のモデリングサウンドです。|
+|17|KRAMPUS DRIVE||モダンハイゲインアンプの重厚な低域と80's ブリティッシュアンプのようなブライトさを併せ持つオリジナルアンプ。|
+|18|REDLOOM DRIVE||ギターアンプ黎明期のシンプルなトーンと60's 小型チューブアンプの豊かな倍音を兼ね備えたオリジナルアンプ。リズムギターに最適。|
+|19|VELVET DRIVE||各弦がバランスよく出力するようにチューニングを施したオリジナルアンプ。トーンを切替えることなくリードとバッキングの両方を演奏できる。|
+|20|MUDDY DRIVE||ナチュラルなクランチサウンドが得られるビンテージスタイルのオリジナルアンプ。
+ブルースやロックに最適。|
+|21|7 HEAVEN DRIVE||ピッキングに追従するレスポンスとタイトなローエンドを兼ね備えたオリジナルアンプ。7弦、8弦ギターを使うことで強力なメタルサウンドを得ることがでる。|
+|22|POLLEX DRIVE||ドロップチューニングと組み合わせることで、Djent サウンドが得られるオリジナルアンプ。スラップ奏法に最適。|
   
   
 - MODULATION(22)
