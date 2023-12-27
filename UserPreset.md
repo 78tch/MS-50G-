@@ -46,21 +46,21 @@
 |40|GEMINOS DOUBLER|MODULATION|ダブルトラッキングをリアルタイムに得ることができるエフェクトです。|
 |41|RING MODULATOR|MODULATION|金属的なサウンドを作り出すエフェクトです。"FREQ" パラメーターの設定で音色がガラリと変わります。|
 |42|SLICER|MODULATION|音を連続的に刻んでリズミカルなサウンドを作り出すエフェクトです。|
-|43|||1|
-|44|||1|
-|45|||1|
-|46|||1|
-|47|||1|
-|48|||1|
-|49|||1|
-|50|||1|
-|51|||1|
-|52|||1|
-|53|||1|
-|54|||1|
-|55|||1|
-|56|||1|
-|57|||1|
+|43|COMPRESSOR|DYNAMICS|MXR Dyna Comp風のコンプレッサーです。|
+|44|RACK COMPRESSOR|DYNAMICS|細かい調節の可能なコンプレッサーです。|
+|45|GRAY COMPRESSOR|DYNAMICS|ROSS Compressorのモデリングです。音質を調節することができるパラメーターを追加しました。|
+|46|BLACK OPTICAL COMPRESSOR|DYNAMICS|Demeter COMP-1 Compulatorのモデリングです。音質を調節することができるパラメーターを追加しました。|
+|47|1176 LIMITER|DYNAMICS|UREI 1176LNのモデリングです。|
+|48|ZOOM NOISE REDUCTION|DYNAMICS|音色を損なわずに無演奏時のノイズを抑えるノイズリダクションです。|
+|49|NOISE GATE|DYNAMICS|無演奏時に信号をカットするノイズゲートです。|
+|50|SLOW ATTACK|DYNAMICS|バイオリン奏法のように、1音1音の立ち上がりをゆるやかにするエフェクトです。|
+|51|AUTO WAH|FILTER|ピッキングの強弱に応じてワウ効果がかかるエフェクトです。|
+|52|LOW-PASS FILTER|FILTER|ピッキングの強弱に応じてローパスフィルターの周波数が動くエフェクトです。|
+|53|ENVELOPE GENERATOR FILTER|FILTER|フットスイッチの操作で制御するフィルターエフェクトです。|
+|54|SEQUENCE FILTER|FILTER|Z.Vex Seek Wah風のシーケンスフィルターです。|
+|55|STEP FILTER|FILTER|音色が階段状に変化するエフェクトです。|
+|56|GUITAR GRAPHIC EQ7|FILTER|モノラル仕様の7バンドのイコライザーです。|
+|57|PARAMETRIC EQ|FILTER|モノラル仕様の1バンドのパラメトリック・イコライザーです。|
 |58|||1|
 |59|||1|
 |60|||1|
