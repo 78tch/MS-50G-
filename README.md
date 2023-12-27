@@ -133,21 +133,21 @@
   
 |No|Name|Model|Memo|
 |---|---|---|---|
-|1|ROOM REVERB|||
-|2|BRGHT ROOM REVERB|||
-|3|SPRING REVERB|||
-|4|HALL REVERB|||
-|5|BRGHT HALL REVERB|||
-|6|AIR REVERB|||
-|7|EARLY REFLECTION REVERB|||
+|1|ROOM REVERB||部屋の残響をシミュレートしたリバーブです。|
+|2|BRGHT ROOM REVERB||明るい残響が得られるルームリバーブのシミュレーションです。|
+|3|SPRING REVERB||スプリングリバーブのシミュレーションです。|
+|4|HALL REVERB||コンサートホールの残響をシミュレートしたリバーブです。|
+|5|BRGHT HALL REVERB||明るい残響が得られるホールリバーブのシミュレーションです。|
+|6|AIR REVERB||部屋鳴りの空気感を再現し、空間的な奥行きを与えます。|
+|7|EARLY REFLECTION REVERB||リバーブに含まれる初期反射音のみを取り出したエフェクトです。|
   
   
 - SFX(5)
   
 |No|Name|Model|Memo|
 |---|---|---|---|
-|1|AUTOPAN|||
-|2|LOOP ROLL|||
-|3|SITAR SIMULATOR|||
-|4|BOMBER|||
-|5|LINE SELECTOR|||
+|1|AUTOPAN||音像が左右に周期的に移動するエフェクトです。|
+|2|LOOP ROLL||フットスイッチの操作で演奏をサンプルホールドすることのできるエフェクトです。|
+|3|SITAR SIMULATOR||シタールの音色をシミュレートするエフェクトです。|
+|4|BOMBER||爆発音を発生させるエフェクトです。|
+|5|LINE SELECTOR||は入力された信号の出力先を次のエフェクト（ON）／OUTPUT端子（OFF）で切り替えます。|
