@@ -106,27 +106,28 @@
 |18|HARMONY PITCH SHIFTER|||
 |19|POLYPHONIC PITCH SHIFTER|||
 |20|GEMINOS DOUBLER|||
-|21|RING MODULATOR|||
-|22|SLICER|||    
+|21|RING MODULATOR||金属的なサウンドを作り出すエフェクトです。"FREQ" パラメーターの設定で音色がガラリと変
+わります。|
+|22|SLICER||音を連続的に刻んでリズミカルなサウンドを作り出すエフェクトです。|
   
-
+  
 - DELAY(13)
   
 |No|Name|Model|Memo|
 |---|---|---|---|
-|1|DELAY|||
-|2|ANALOG DELAY|||
-|3|TAPE ECHO|||
-|4|TAPE ECHO 3|||
-|5|DUAL DELAY|||
-|6|SOFT ECHO|||
-|7|SLAPBACK DELAY|||
-|8|PING-PONG DELAY|||
-|9|REVERSE DELAY|||
-|10|MODULATION DELAY|||
-|11|FILTER DELAY|||
-|12|PITCH DELAY|||
-|13|HOLD DELAY|||
+|1|DELAY||最長4000msのロングディレイに対応したディレイです。|
+|2|ANALOG DELAY||最長4000msのロングディレイに対応した、暖かみのあるアナログディレイのシミュレーションです。|
+|3|TAPE ECHO||テープエコーの効果をシミュレートしたエフェクトです。"Time" パラメーターを変化させると、エコー音のピッチが変化します。|
+|4|TAPE ECHO 3||MAESTRO ECHOPLEX EP-3をモデリングしたテープエコーサウンドです。|
+|5|DUAL DELAY||2つの独立したディレイを組み合わせることができるエフェクトです。|
+|6|SOFT ECHO||ソフトな音質のエコーです。エコー音にモジュレーションの効果がかかるエフェクトです。|
+|7|SLAPBACK DELAY||カッティングやロカビリーに適した短いタイムに特化したディレイです。|
+|8|PING-PONG DELAY||ディレイ音が左右交互に出力されるディレイです。|
+|9|REVERSE DELAY||最長2000msのロングディレイに対応した、リバースディレイです。|
+|10|MODULATION DELAY||ディレイ音にモジュレーションの効果がかかるエフェクトです。|
+|11|FILTER DELAY||ディレイ音にフィルターの効果がかかるエフェクトです。|
+|12|PITCH DELAY||ディレイ音にピッチシフターの効果がかかるエフェクトです。|
+|13|HOLD DELAY||フットスイッチの操作で制御する、ホールド・ディレイです。フットスイッチを踏み込むとエフェクトON、離すとエフェクト音がホールドされます。|
   
   
 - REVERB(7)
