@@ -106,8 +106,7 @@
 |18|HARMONY PITCH SHIFTER|||
 |19|POLYPHONIC PITCH SHIFTER|||
 |20|GEMINOS DOUBLER|||
-|21|RING MODULATOR||金属的なサウンドを作り出すエフェクトです。"FREQ" パラメーターの設定で音色がガラリと変
-わります。|
+|21|RING MODULATOR||金属的なサウンドを作り出すエフェクトです。"FREQ" パラメーターの設定で音色がガラリと変わります。|
 |22|SLICER||音を連続的に刻んでリズミカルなサウンドを作り出すエフェクトです。|
   
   
