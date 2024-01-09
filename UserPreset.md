@@ -3,6 +3,8 @@
 ## パッチメモリー(100個)の設定例
 　　
 以下の表のように設定した設定ファイルを、[リンク先](https://drive.google.com/drive/folders/1qUogeVSghd8oD4pVegNLOcD8s_Ive20_?usp=drive_link)に置いている。  
+１パッチ、１ファイルである。  
+拡張子は「.zptc」。
 iOS 版のアプリから、インポートできる。
 
 |No|Name|type|Memo|
