@@ -2,10 +2,11 @@
 [戻る](./README.md)
 ## パッチメモリー(100個)の設定例
   
-以下の表のように設定した設定ファイルを、[リンク先](https://drive.google.com/drive/folders/1qUogeVSghd8oD4pVegNLOcD8s_Ive20_?usp=drive_link)に置いている。  
-１パッチ、１ファイルである。  
-拡張子は「.zptc」。  
-iOS 版のアプリから、インポートできる。
+以下の表のように設定した設定ファイルを、[リンク先](https://drive.google.com/drive/folders/1qUogeVSghd8oD4pVegNLOcD8s_Ive20_?usp=drive_link)に置いています。  
+このようにすれば、「フットスイッチでパッチメモリーを切り替えていくことで、内蔵エフェクターを単体で順に試せる。」という状態になります。  
+１パッチ、１ファイルで、中身は単なるテキストファイルであり、拡張子は「.zptc」。  
+iOS 版のアプリから、インポートできます。  
+
   
 |No|Name|type|Memo|
 |---|---|---|---|
