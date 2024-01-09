@@ -14,8 +14,7 @@ ios のアプリがあれば、この状態をバックアップして、１パ�
   
 以下の表のように設定した設定ファイルを、[リンク先](https://drive.google.com/drive/folders/1qUogeVSghd8oD4pVegNLOcD8s_Ive20_?usp=drive_link)に置いています。  
 iOS 版のアプリから、インポートできます。  
-
-
+  
 |No|Name|type|Memo|
 |---|---|---|---|
 |1|ROOM REVERB|REVERB|部屋の残響をシミュレートしたリバーブです。|
