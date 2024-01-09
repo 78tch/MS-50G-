@@ -9,7 +9,7 @@ iOS 版のアプリから、インポートできる。
   
 |No|Name|type|Memo|
 |---|---|---|---|
-||ROOM REVERB|REVERB|部屋の残響をシミュレートしたリバーブです。|
+|1|ROOM REVERB|REVERB|部屋の残響をシミュレートしたリバーブです。|
 |2|BRGHT ROOM REVERB|REVERB|明るい残響が得られるルームリバーブのシミュレーションです。|
 |3|SPRING REVERB|REVERB|スプリングリバーブのシミュレーションです。|
 |4|HALL REVERB|REVERB|コンサートホールの残響をシミュレートしたリバーブです。|
