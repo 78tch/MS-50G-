@@ -1,7 +1,10 @@
 # MS-50G+
 [戻る](./README.md)
 ## パッチメモリー(100個)の設定例
-  
+　　
+以下の表のように設定した設定ファイルを、[リンク先](https://drive.google.com/drive/folders/1qUogeVSghd8oD4pVegNLOcD8s_Ive20_?usp=drive_link)に置いている。  
+iOS 版のアプリから、インポートできる。
+
 |No|Name|type|Memo|
 |---|---|---|---|
 |1|ROOM REVERB|REVERB|部屋の残響をシミュレートしたリバーブです。|
