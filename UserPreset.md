@@ -25,8 +25,8 @@
 |19|PITCH DELAY|DELAY|ディレイ音にピッチシフターの効果がかかるエフェクトです。|
 |20|HOLD DELAY|DELAY|フットスイッチの操作で制御する、ホールド・ディレイです。フットスイッチを踏み込むとエフェクトON、離すとエフェクト音がホールドされます。|
 |21|CLONE CHORUS|MODULATION|Electro-Harmonix SmallCloneをモデリングしたアナログコーラスサウンドです。|
-|22|CHORUS ONE|MODULATION||
-|23|TRI CHORUS|MODULATION|BOSS SUPER CHORUS CH-1のモデリングです。|
+|22|CHORUS ONE|MODULATION|BOSS SUPER CHORUS CH-1のモデリングです。|
+|23|TRI CHORUS|MODULATION|tc electronic CORONA Tri-Chorusをモデリングしたコーラスです。|
 |24|ANALOG CHORUS|MODULATION|アナログコーラスのシミュレーションです。|
 |25|STEREO CHORUS|MODULATION|クリアな音質のステレオコーラスです。|
 |26|DETUNE|MODULATION|わずかにピッチシフトさせたエフェクト音と原音をミックスさせることで、変調感の少ないコーラス効果が得られるエフェクトタイプです。|
