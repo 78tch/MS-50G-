@@ -4,16 +4,16 @@
   
 |No|ジャンル|数|
 |--|--|--|
-|1|DYNAMICS|8|
-|2|FILTER|7|
-|3|DRIVE|19|
-|4|PREAMP|22|
-|5|MODULATION|22|
-|6|DELAY|13|
-|7|REVERB|7|
-|8|SFX|5|
+|1|[DYNAMICS](#anchor1)|8|
+|2|[FILTER](#anchor2)|7|
+|3|[DRIVE](#anchor3)|19|
+|4|[PREAMP](#anchor4)|22|
+|5|[MODULATION](#anchor5)|22|
+|6|[DELAY](#anchor6)|13|
+|7|[REVERB](#anchor7)|7|
+|8|[SFX](#anchor8)|5|
 
-## 1.DYNAMICS(8)
+## 1.<a id="anchor1">DYNAMICS(8)</a>
   
 |No|Name|Model|Memo|
 |---|---|---|---|
@@ -27,7 +27,7 @@
 |8|SLOW ATTACK||バイオリン奏法のように、1音1音の立ち上がりをゆるやかにするエフェクトです。|
   
   
-## 2.FILTER(7)
+## 2.<a id="anchor2">FILTER(7)</a>
   
 |No|Name|Model|Memo|
 |---|---|---|---|
@@ -40,7 +40,7 @@
 |7|PARAMETRIC EQ||モノラル仕様の1バンドのパラメトリック・イコライザーです。|
   
   
-## 3.DRIVE(19)
+## 3.<a id="anchor3">DRIVE(19)</a>
   
 |No|Name|Model|Memo|
 |---|---|---|---|
@@ -65,7 +65,7 @@
 |19|ACOUSTIC SIMULATOR||エレクトリックギターの音色をアコースティックギター風に変えるエフェクトです。|
   
 
-## 4.PREAMP(22)
+## 4.<a id="anchor4">PREAMP(22)</a>
   
 |No|Name|Model|Memo|
 |---|---|---|---|
@@ -93,7 +93,7 @@
 |22|POLLEX DRIVE||ドロップチューニングと組み合わせることで、Djent サウンドが得られるオリジナルアンプ。スラップ奏法に最適。|
   
   
-## 5.MODULATION(22)
+## 5.<a id="anchor5">MODULATION(22)</a>
   
 |No|Name|Model|Memo|
 |---|---|---|---|
@@ -121,7 +121,7 @@
 |22|SLICER||音を連続的に刻んでリズミカルなサウンドを作り出すエフェクトです。|
   
   
-## 6.DELAY(13)
+## 6.<a id="anchor6">DELAY(13)</a>
   
 |No|Name|Model|Memo|
 |---|---|---|---|
@@ -140,7 +140,7 @@
 |13|HOLD DELAY||フットスイッチの操作で制御する、ホールド・ディレイです。フットスイッチを踏み込むとエフェクトON、離すとエフェクト音がホールドされます。|
   
   
-## 7.REVERB(7)
+## 7.<a id="anchor7">REVERB(7)</a>
   
 |No|Name|Model|Memo|
 |---|---|---|---|
@@ -153,7 +153,7 @@
 |7|EARLY REFLECTION REVERB||リバーブに含まれる初期反射音のみを取り出したエフェクトです。|
   
   
-## 8.SFX(5)
+## 8.<a id="anchor8">SFX(5)</a>
   
 |No|Name|Model|Memo|
 |---|---|---|---|
